@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+        margin:auto;
+        
+}
+.h{
+    width: 80%;
+    height: 7px;
+    border: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 200px;
+    margin-bottom: 90px;
+    background-color:#EFB200;
+}
+h2{
+    color: #EFB200;
+    font-family: aller;
+    font-size: 45px;
+    border: 100px;
+}
+.search{
+	width: 449px;
+	height: 46px;
+	background:#eeefed;
+	border:1px solid #eeefed;
+	border-radius:3px;
+}
+.placeholder{
+	border:1px solid #c8c8c8;
+	border-radius:3px;
+	margin-left: 2px;
+	margin-top: 5px;
+	padding:0px;
+	width: 445px;
+	height: 36px;
+	color:#e4e4e7;
+}
+
