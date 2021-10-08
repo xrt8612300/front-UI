@@ -1,0 +1,70 @@
+col-md-12 jumbotron{
+    
+}.section-1
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center; 
+    width: 100%;
+    height: 100%;
+
+    
+    
+    position: relative;
+}
+
+
+div.bp{
+    display: flex;
+    justify-content: center;
+}
+
+div.boxed  {
+    
+    box-sizing:content-box;
+    border: 2px solid rgb(3, 3, 3) ;
+    width: 400px;
+    height: 200px;
+    padding: 50px;
+    text-align: left; 
+    float: left;
+    
+  }
+  p{
+      font-size: 18px;
+  }
+
+  div.start{
+    
+    position:relative;
+
+  }
+
+  hr 
+  { display: block;
+     margin-before: 0.5em; 
+     margin-after: 0.5em; 
+     margin-start: auto; margin-end: auto; 
+     overflow: hidden; 
+     border-style: inset; 
+     border-width: 1px;
+    }
+
+    .time{
+        padding-bottom: 50px;
+        padding-right: 20px;
+    }
+    .section-2
+    {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        text-align: left; 
+        width: 100%;
+        height: 100%;
+    
+        background-color: rgba(145, 139, 139, 0.733);
+        
+        position: relative;
+    }
